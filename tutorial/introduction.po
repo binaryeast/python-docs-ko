@@ -54,7 +54,7 @@ msgstr ""
 
 #: ../Doc/tutorial/introduction.rst:22
 msgid "Some examples::"
-msgstr "몇 가지 예를 듭니다::"
+msgstr "몇 가지 예시입니다::"
 
 #: ../Doc/tutorial/introduction.rst:33
 msgid "Using Python as a Calculator"
@@ -157,7 +157,7 @@ msgid ""
 msgstr ""
 ":class:`int` 와 :class:`float` 에 더해, 파이썬은 :class:`~decimal.Decimal` 이나 "
 ":class:`~fractions.Fraction` 등의 다른 형의 숫자들도 지원합니다. 파이썬은 :ref:`복소수 "
-"<typesnumeric>` 에 대한 지원도 내장하고 있는데, 허수부를 가리키는데 ``j`` 나 ``J`` 접미사를 사용합니다 "
+"<typesnumeric>` 에 대한 지원도 내장하고 있는데, 허수부를 가리키는데 ``j`` 나 ``J`` 접미사를 사용합니다"
 "(예를 들어 ``3+5j``)."
 
 #: ../Doc/tutorial/introduction.rst:133
@@ -483,7 +483,7 @@ msgid ""
 "are all evaluated first before any of the assignments take place.  The "
 "right-hand side expressions are evaluated  from the left to the right."
 msgstr ""
-"첫 줄은 *다중 대입* 을 포함하고 있습니다: 변수 ``a`` 와 ``b`` 에 동시에 값 0과1이 대입됩니다. 마지막 줄에서 다시"
+"첫 줄은 *다중 대입* 을 포함하고 있습니다: 변수 ``a`` 와 ``b`` 에 동시에 값 0과 1이 대입됩니다. 마지막 줄에서 다시"
 " 사용되는데, 대입이 어느 하나라도 이루어지기 전에 우변의 표현식들이 모두 계산됩니다. 우변의 표현식은 왼쪽부터 오른쪽으로 가면서 "
 "순서대로 계산됩니다."
 

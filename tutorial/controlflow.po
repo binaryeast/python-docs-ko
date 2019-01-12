@@ -37,7 +37,7 @@ msgstr ":keyword:`!if` 문"
 msgid ""
 "Perhaps the most well-known statement type is the :keyword:`if` "
 "statement.  For example::"
-msgstr "아마도 가장 잘 알려진 문장 형은 :keyword:`if` 문일 것입니다. 예를 들어::"
+msgstr "아마도 가장 잘 알려진 문장형은 :keyword:`if` 문일 것입니다. 예를 들어::"
 
 #: ../Doc/tutorial/controlflow.rst:33
 msgid ""
@@ -711,7 +711,7 @@ msgid ""
 "Every Python developer should read it at some point; here are the most "
 "important points extracted for you:"
 msgstr ""
-"파이썬을 위해, 대부분 프로젝트가 고수하는 스타일 가이드로 :pep:`8` 이 나왔습니다; 이것은 매우 읽기 쉽고 눈이 편안한 코딩"
+"파이썬을 위해, 대부분의 프로젝트가 고수하는 스타일 가이드로 :pep:`8` 이 나왔습니다; 이것은 매우 읽기 쉽고 눈이 편안한 코딩"
 " 스타일을 장려합니다. 모든 파이썬 개발자는 언젠가는 이 문서를 읽어야 합니다; 여러분을 위해 가장 중요한 부분들을 추려봤습니다::"
 
 #: ../Doc/tutorial/controlflow.rst:723
@@ -729,7 +729,7 @@ msgstr ""
 
 #: ../Doc/tutorial/controlflow.rst:729
 msgid "Wrap lines so that they don't exceed 79 characters."
-msgstr "79자를 넘지 않도록 줄 넘김 하세요."
+msgstr "79자를 넘기지 않도록 줄 넘김 하세요."
 
 #: ../Doc/tutorial/controlflow.rst:731
 msgid ""
@@ -777,8 +777,8 @@ msgid ""
 "international environments.  Python's default, UTF-8, or even plain ASCII"
 " work best in any case."
 msgstr ""
-"여러분의 코드를 국제적인 환경에서 사용하려고 한다면 특별한 인코딩을 사용하지 마세요. 어떤 경우에도 파이썬의 기본, UTF-8, "
-"또는 단순 ASCII조차, 이 최선입니다."
+"여러분의 코드를 국제적인 환경에서 사용하려고 한다면 특별한 인코딩을 사용하지 마세요. 어떤 경우에도 파이썬의 "
+"기본인 UTF-8, 혹은 심지어 순수한 ASCII가 최선입니다."
 
 #: ../Doc/tutorial/controlflow.rst:753
 msgid ""
